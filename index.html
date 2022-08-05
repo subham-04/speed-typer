@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./startup.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <title>Speed Typer</title>
+</head>
+<body>
+    <button id="settings-btn" class="settings-btn">
+        <i class="uil uil-setting settings-btn-icon"></i>
+    </button>
+    
+    <div class="settings" id="settings">
+        <form id="settings-form">
+            <div>
+                <label class="default-btn"  for="difficulty">Difficulty</label>
+                <select id="difficulty">
+                    <option value="easy">Easy</option>
+                    <option value="medium">Medium</option>
+                    <option value="hard">Hard</option>
+                </select>
+            </div>
+        </form>
+    </div>
+
+    <div class="container">
+        <h2><i class="uil uil-keyboard-hide icon"></i> Welcome to Speed Typer </h2>
+        <p class="sub-title">Type the following text</p>
+
+        <h1 id="word"></h1>
+
+        <input type="text" id="text" autocomplete="off" spellcheck="false" placeholder="Type the following text here..">
+
+        <p class="time-container">
+            Time left: <span id="time"></span>
+        </p>
+
+        <p class="score-container">
+            Words: <span id="score">0</span>
+        </p>
+
+        <div class="end-game-container" id="end-game-container"></div>
+    </div>
+
+
+    <div class="social-bar">
+
+                    <li class="social">
+                        <a href="https://github.com/subham-04" target="_blank" id="github" title="Github" class="social-link">
+                            <i class="uil uil-github-alt"></i>
+                        </a>
+                    </li>
+
+                    <li class="social">
+                        <a href="https://subhambhadra.netlify.app" target="_blank" id="portfolio" title="Porfolio" class="social-link">
+                            <i class="uil uil-layer-group"></i>
+                        </a>
+                    </li>
+
+                    <li class="social">
+                        <a href="https://www.linkedin.com/in/subham-bhadra-54b8921b2" target="_blank" id="linkedin" title="Linkedin" class="social-link">
+                            <i class="uil uil-linkedin-alt"></i>
+                        </a>
+                    </li>
+
+                    <li class="social">
+                        <a href="https://www.instagram.com/subham0422" target="_blank" id="instagram" title="Instagram" class="social-link">
+                            <i class="uil uil-instagram"></i>
+                        </a>
+                    </li>
+                    
+    </div>
+
+
+
+    <footer class="footer">
+
+        
+
+    </footer>
+
+
+    <script src="./script.js"></script>
+</body>
+</html>
