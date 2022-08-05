@@ -7,6 +7,12 @@ const settings = document.getElementById('settings');
 const settingsBtn = document.getElementById('settings-btn');
 const difficultyEl = document.getElementById('difficulty');
 const settingsForm = document.getElementById('settings-form');
+const year = document.getElementById('year');
+
+let yr = new Date();
+let dt = yr.getFullYear();
+year.innerText=dt;
+
 
 
 const words =[

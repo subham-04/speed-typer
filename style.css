@@ -219,3 +219,12 @@ li{
 #portfolio:hover{
     color: #f47758;
 }
+
+.footer{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 1rem;
+    color: rgba(245, 245, 245, 0.669);
+}
