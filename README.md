@@ -1,3 +1,3 @@
 # speed-typer
 
-Recomended to open through Desktop or Tabs only
+Recomended to open via Desktop or Tabs only
