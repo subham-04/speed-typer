@@ -5,7 +5,9 @@ Recomended to open via Desktop or Tabs only
 
 <br>
 
--Preview 
+- Preview 
+
+<br>
 
 
-https://github.com/subham-04/speed-typer/blob/main/speed%20typer.png
+![App Screenshot](https://github.com/subham-04/speed-typer/blob/main/speed%20typer.png)
