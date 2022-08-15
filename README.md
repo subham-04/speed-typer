@@ -1,6 +1,6 @@
 # speed-typer
 
-Recomended to open via Desktop only
+For the better experience recomended to open via Desktop only
 
 
 <br>
