@@ -1,7 +1,7 @@
 # speed-typer
 
 
-![App Screenshot](https://github.com/subham-04/speed-typer/blob/main/speed%20typer.png)
+![App Screenshot](https://github.com/subham-04/speed-typer/blob/main/startup.png)
 
 <br>
 
